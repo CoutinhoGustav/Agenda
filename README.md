@@ -1,4 +1,4 @@
-# Agenda Inteligente — versão 2.0
+# Agenda Inteligente - versão 2.0
 
 Aplicativo React Native + Expo + TypeScript, com funcionamento offline e armazenamento SQLite local.
 
